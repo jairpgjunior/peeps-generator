@@ -122,11 +122,11 @@ export const PeepsGenerator: React.FC = () => {
                 />
             </div>
 
-            <LeftMenu />
+            
 
             <RightMenu />
 
-            <Footer />
+           
         </>
     );
 };
